@@ -4,7 +4,7 @@ what is the best keyboard? of course is Thinkpad seven row keyboard.
 Maybe you can say "Buy a sk8845 directly!" Oh come on, you are a software engineer.  You must make it by yourself.
 
 
-![帅不帅](./picture/thinkpadSevenRowKeyboard.png)
+![帅不帅](https://github.com/megahertz66/SuperKeyboard/blob/main/picture/ThinkpadSevenRowKeyboard.png)
 
 
 ## Hardware
